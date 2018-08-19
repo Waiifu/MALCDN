@@ -1,3 +1,3 @@
 # MALCDN
 
-Hi :D
+Hi
