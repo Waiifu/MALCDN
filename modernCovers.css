@@ -521,7 +521,8 @@
 * Anime *
 *********/
 /* Mononoke Hime */                                             .data.image a[href^="/anime/164"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Mononoke Hime.png')}
-/* Spirited Away */                                             .data.image a[href^="/anime/199"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Spirited Away.png')} /* Tengen Toppa Gurren Lagann */                                .data.image a[href^="/anime/2001  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Tengen Toppa Gurren Lagann.png')}
+/* Spirited Away */                                             .data.image a[href^="/anime/199"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Spirited Away.png')} 
+/* Tengen Toppa Gurren Lagann */                                .data.image a[href^="/anime/2001  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Tengen Toppa Gurren Lagann.png')}
 /* Clannad: After Story */                                      .data.image a[href^="/anime/4181"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Clannad: After Story.png')}
 /* Bakemonogatari */                                            .data.image a[href^="/anime/5081"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Bakemonogatari.png')}
 /* Fullmetal Alchemist: Brotherhood */                          .data.image a[href^="/anime/5114"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Fullmetal Alchemist: Brotherhood.png')}
@@ -550,8 +551,6 @@
 /* Angel Beats! */                                              .data.image a[href^="/anime/6547"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Angel Beats!.png')}
 /* Fairy Tail */                                                .data.image a[href^="/anime/6702"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Fairy Tail.png')}
 /* Kaichou wa Maid-sama! */                                     .data.image a[href^="/anime/7054"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Kaichou wa Maid-sama!.png')}
-
-
 /* Darling in the FranXX */                                     .data.image a[href^="/anime/35849"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Darling in the FranXX.png')}
 
 
@@ -560,40 +559,40 @@
 /*
     MANGA
 */
-/* Three Days of Happiness */                           .data.image a[href^="/anime/100448 "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Three Days of Happiness.png')}
-/* Taiyou no Ie */                                      .data.image a[href^="/anime/26736  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Taiyou no Ie.png')}
-/* Kimi no Suizou wo Tabetai */                         .data.image a[href^="/anime/104538 "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kimi no Suizou wo Tabetai.png')}
-/* Last Game */                                         .data.image a[href^="/anime/30315  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Last Game.png')}
-/* Dame na Watashi ni Koishite Kudasai */               .data.image a[href^="/anime/55403  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Dame na Watashi ni Koishite Kudasai.png')}                             
-/* Mushoku Tensei: Isekai Ittara Honki Dasu */          .data.image a[href^="/anime/70259  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Mushoku Tensei: Isekai Ittara Honki Dasu.png')}
-/* ReLIFE */                                            .data.image a[href^="/anime/78523  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/ReLIFE.png')}
-/* Hajimete no Gal */                                   .data.image a[href^="/anime/98938  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Hajimete no Gal.png')}
-/* Kono Shima ni wa Midara de Jaaku na Mono ga Sumu */  .data.image a[href^="/anime/77993  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kono Shima ni wa Midara de Jaaku na Mono ga Sumu.png')}
-/* Kimi wa Midara na Boku no Joou */                    .data.image a[href^="/anime/44155  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kimi wa Midara na Boku no Joou.png')}  
-/* Velvet Kiss */                                       .data.image a[href^="/anime/22638  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Velvet Kiss.png')}
-/* Koi wo Suru no ga Shigoto desu. */                   .data.image a[href^="/anime/13883  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Koi wo Suru no ga Shigoto desu..png')}
-/* Boku Girl */                                         .data.image a[href^="/anime/63781  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Boku Girl.png')}
-/* Horimiya */                                          .data.image a[href^="/anime/42451  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Horimiya.png')}
-/* Domestic na Kanojo */                                .data.image a[href^="/anime/70941  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Domestic na Kanojo.png')}
-/* Swap⇔Swap */                                         .data.image a[href^="/anime/94878  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Swap⇔Swap.png')}
-/* Ani Tomo */                                          .data.image a[href^="/anime/95705  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Ani Tomo.png')}
-/* Bokura wa Minna Kawai-sou */                         .data.image a[href^="/anime/26769  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Bokura wa Minna Kawai-sou.png')}
-/* Machida-kun no Sekai */                              .data.image a[href^="/anime/58141  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Machida-kun no Sekai.png')}
-/* Harumatsu Bokura */                                  .data.image a[href^="/anime/72949  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Harumatsu Bokura.png')}
-/* Kyou no Asuka Show */                                .data.image a[href^="/anime/16709  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kyou no Asuka Show.png')}
-/* Kyou no Kira-kun */                                  .data.image a[href^="/anime/35035  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kyou no Kira-kun.png')}
-/* Bonnouji */                                          .data.image a[href^="/anime/28226  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Bonnouji.png')}
-/* Aizawa-san Zoushoku */                               .data.image a[href^="/anime/63579  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Aizawa-san Zoushoku.png')}
-/* Kyou no Yuiko-san */                                 .data.image a[href^="/anime/47617  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kyou no Yuiko-san.png')}
-/* Goblin Slayer */                                     .data.image a[href^="/anime/98720  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Goblin Slayer.png')}
-/* Shuumatsu no Harem */                                .data.image a[href^="/anime/98752  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Shuumatsu no Harem.png')}
-/* Kimi no Iru Machi */                                 .data.image a[href^="/anime/8483   "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kimi no Iru Machi.png')}
-/* Something About Us */                                .data.image a[href^="/anime/96573  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Something About Us.png')}
-/* Shall we Have Dinner Tonight? */                     .data.image a[href^="/anime/99659  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Shall we Have Dinner Tonight.png')}
-/* Love at Fourteen */                                  .data.image a[href^="/anime/31185  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Love at Fourteen.png')}
-/* Futari no Renai Shoka */                             .data.image a[href^="/anime/57359  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Futari no Renai Shoka.png')}
-/* Kanojo ni Naru Hi */                                 .data.image a[href^="/anime/54817  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kanojo ni Naru Hi.png')}
-/* Shishunki Bitter Change */                           .data.image a[href^="/anime/65473  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Shishunki Bitter Change.png')}
-/* Akagami no Shirayuki-hime */                         .data.image a[href^="/anime/4571   "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Akagami no Shirayukihime.png')}
-/* Koisome Momiji */									.data.image a[href^="/anime/37013 	"] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Koisome Momiji.png')}
-/* Komi-san wa, Comyushou desu. */                      .data.image a[href^="/anime/99007	"] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Komi-san wa, Comyushou desu..png')}
+/* Three Days of Happiness */                           .data.image a[href^="/manga/100448 "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Three Days of Happiness.png')}
+/* Taiyou no Ie */                                      .data.image a[href^="/manga/26736  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Taiyou no Ie.png')}
+/* Kimi no Suizou wo Tabetai */                         .data.image a[href^="/manga/104538 "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kimi no Suizou wo Tabetai.png')}
+/* Last Game */                                         .data.image a[href^="/manga/30315  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Last Game.png')}
+/* Dame na Watashi ni Koishite Kudasai */               .data.image a[href^="/manga/55403  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Dame na Watashi ni Koishite Kudasai.png')}                             
+/* Mushoku Tensei: Isekai Ittara Honki Dasu */          .data.image a[href^="/manga/70259  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Mushoku Tensei: Isekai Ittara Honki Dasu.png')}
+/* ReLIFE */                                            .data.image a[href^="/manga/78523  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/ReLIFE.png')}
+/* Hajimete no Gal */                                   .data.image a[href^="/manga/98938  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Hajimete no Gal.png')}
+/* Kono Shima ni wa Midara de Jaaku na Mono ga Sumu */  .data.image a[href^="/manga/77993  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kono Shima ni wa Midara de Jaaku na Mono ga Sumu.png')}
+/* Kimi wa Midara na Boku no Joou */                    .data.image a[href^="/manga/44155  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kimi wa Midara na Boku no Joou.png')}  
+/* Velvet Kiss */                                       .data.image a[href^="/manga/22638  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Velvet Kiss.png')}
+/* Koi wo Suru no ga Shigoto desu. */                   .data.image a[href^="/manga/13883  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Koi wo Suru no ga Shigoto desu..png')}
+/* Boku Girl */                                         .data.image a[href^="/manga/63781  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Boku Girl.png')}
+/* Horimiya */                                          .data.image a[href^="/manga/42451  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Horimiya.png')}
+/* Domestic na Kanojo */                                .data.image a[href^="/manga/70941  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Domestic na Kanojo.png')}
+/* Swap⇔Swap */                                         .data.image a[href^="/manga/94878  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Swap⇔Swap.png')}
+/* Ani Tomo */                                          .data.image a[href^="/manga/95705  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Ani Tomo.png')}
+/* Bokura wa Minna Kawai-sou */                         .data.image a[href^="/manga/26769  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Bokura wa Minna Kawai-sou.png')}
+/* Machida-kun no Sekai */                              .data.image a[href^="/manga/58141  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Machida-kun no Sekai.png')}
+/* Harumatsu Bokura */                                  .data.image a[href^="/manga/72949  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Harumatsu Bokura.png')}
+/* Kyou no Asuka Show */                                .data.image a[href^="/manga/16709  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kyou no Asuka Show.png')}
+/* Kyou no Kira-kun */                                  .data.image a[href^="/manga/35035  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kyou no Kira-kun.png')}
+/* Bonnouji */                                          .data.image a[href^="/manga/28226  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Bonnouji.png')}
+/* Aizawa-san Zoushoku */                               .data.image a[href^="/manga/63579  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Aizawa-san Zoushoku.png')}
+/* Kyou no Yuiko-san */                                 .data.image a[href^="/manga/47617  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kyou no Yuiko-san.png')}
+/* Goblin Slayer */                                     .data.image a[href^="/manga/98720  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Goblin Slayer.png')}
+/* Shuumatsu no Harem */                                .data.image a[href^="/manga/98752  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Shuumatsu no Harem.png')}
+/* Kimi no Iru Machi */                                 .data.image a[href^="/manga/8483   "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kimi no Iru Machi.png')}
+/* Something About Us */                                .data.image a[href^="/manga/96573  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Something About Us.png')}
+/* Shall we Have Dinner Tonight? */                     .data.image a[href^="/manga/99659  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Shall we Have Dinner Tonight.png')}
+/* Love at Fourteen */                                  .data.image a[href^="/manga/31185  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Love at Fourteen.png')}
+/* Futari no Renai Shoka */                             .data.image a[href^="/manga/57359  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Futari no Renai Shoka.png')}
+/* Kanojo ni Naru Hi */                                 .data.image a[href^="/manga/54817  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Kanojo ni Naru Hi.png')}
+/* Shishunki Bitter Change */                           .data.image a[href^="/manga/65473  "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Shishunki Bitter Change.png')}
+/* Akagami no Shirayuki-hime */                         .data.image a[href^="/manga/4571   "] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Akagami no Shirayukihime.png')}
+/* Koisome Momiji */									.data.image a[href^="/manga/37013 	"] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Koisome Momiji.png')}
+/* Komi-san wa, Comyushou desu. */                      .data.image a[href^="/manga/99007	"] {background-image:url('https://waiifu.github.io/MALCDN/Manga/Komi-san wa, Comyushou desu..png')}
