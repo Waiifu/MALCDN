@@ -520,36 +520,36 @@
 /*********
 * Anime *
 *********/
-/* Mononoke Hime */                                             .data.image a[href^="/anime/164   "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Mononoke Hime.png')}
-/* Spirited Away */                                             .data.image a[href^="/anime/199   "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Spirited Away.png')} /* Tengen Toppa Gurren Lagann */                                .data.image a[href^="/anime/2001  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Tengen Toppa Gurren Lagann.png')}
-/* Clannad: After Story */                                      .data.image a[href^="/anime/4181  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Clannad: After Story.png')}
-/* Bakemonogatari */                                            .data.image a[href^="/anime/5081  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Bakemonogatari.png')}
-/* Fullmetal Alchemist: Brotherhood */                          .data.image a[href^="/anime/5114  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Fullmetal Alchemist: Brotherhood.png')}
-/* Steins;Gate */                                               .data.image a[href^="/anime/9253  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Steins;Gate.png')}
-/* Hunter x Hunter (2011) */                                    .data.image a[href^="/anime/11061 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Hunter x Hunter (2011).png')}
-/* Yahari Ore no Seishun Love Comedy wa Machigatteiru. */       .data.image a[href^="/anime/14813 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Yahari Ore no Seishun Love Comedy wa Machigatteiru..png')}
-/* No Game No Life */                                           .data.image a[href^="/anime/19815 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/No Game No Life.png')}
-/* Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku */  .data.image a[href^="/anime/23847 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku.png')}
-/* Koe no Katachi / Silent Voice */                             .data.image a[href^="/anime/28851 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Koe no Katachi.png')}
-/* Re:Zero kara Hajimeru Isekai Seikatsu */                     .data.image a[href^="/anime/31240 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Re:Zero kara Hajimeru Isekai Seikatsu.png')}
-/* Kimi no Na wa. / Your Name. */                               .data.image a[href^="/anime/32281 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Kimi no Na wa..png')}
-/* Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou */ .data.image a[href^="/anime/32935 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou.png')}
-/* Made in Abyss */                                             .data.image a[href^="/anime/34599 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Made in Abyss.png')} 
-/* Howl no Ugoku Shiro */                                       .data.image a[href^="/anime/431   "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Howl no Ugoku Shiro.png')}
-/* Mushishi */                                                  .data.image a[href^="/anime/457   "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Mushishi.png')}
-/* Tonari no Totoro */                                          .data.image a[href^="/anime/523   "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Tonari no Totoro.png')}
-/* NHK ni Youkoso! */                                           .data.image a[href^="/anime/1210  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/NHK ni Youkoso!.png')}
-/* D.Gray-man */                                                .data.image a[href^="/anime/1482  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/D.Gray-man.png')}
-/* Death Note */                                                .data.image a[href^="/anime/1535  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Death Note.png')}
-/* Ookami to Koushinryou */                                     .data.image a[href^="/anime/2966  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Ookami to Koushinryou.png')}
-/* Soul Eater */                                                .data.image a[href^="/anime/3588  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Soul Eater.png')}
-/* Clannad: Mou Hitotsu no Sekai, Tomoyo-hen */                 .data.image a[href^="/anime/4059  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Clannad: Mou Hitotsu no Sekai, Tomoyo-hen.png')}
-/* Ookami to Koushinryou II */                                  .data.image a[href^="/anime/5341  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Ookami to Koushinryou II.png')}
-/* Summer Wars */                                               .data.image a[href^="/anime/5681  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Summer Wars.png')}
-/* Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen */     .data.image a[href^="/anime/6351  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen.png')}
-/* Angel Beats! */                                              .data.image a[href^="/anime/6547  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Angel Beats!.png')}
-/* Fairy Tail */                                                .data.image a[href^="/anime/6702  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Fairy Tail.png')}
-/* Kaichou wa Maid-sama! */                                     .data.image a[href^="/anime/7054  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Kaichou wa Maid-sama!.png')}
+/* Mononoke Hime */                                             .data.image a[href^="/anime/164"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Mononoke Hime.png')}
+/* Spirited Away */                                             .data.image a[href^="/anime/199"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Spirited Away.png')} /* Tengen Toppa Gurren Lagann */                                .data.image a[href^="/anime/2001  "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Tengen Toppa Gurren Lagann.png')}
+/* Clannad: After Story */                                      .data.image a[href^="/anime/4181"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Clannad: After Story.png')}
+/* Bakemonogatari */                                            .data.image a[href^="/anime/5081"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Bakemonogatari.png')}
+/* Fullmetal Alchemist: Brotherhood */                          .data.image a[href^="/anime/5114"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Fullmetal Alchemist: Brotherhood.png')}
+/* Steins;Gate */                                               .data.image a[href^="/anime/9253"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Steins;Gate.png')}
+/* Hunter x Hunter (2011) */                                    .data.image a[href^="/anime/11061"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Hunter x Hunter (2011).png')}
+/* Yahari Ore no Seishun Love Comedy wa Machigatteiru. */       .data.image a[href^="/anime/14813"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Yahari Ore no Seishun Love Comedy wa Machigatteiru..png')}
+/* No Game No Life */                                           .data.image a[href^="/anime/19815"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/No Game No Life.png')}
+/* Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku */  .data.image a[href^="/anime/23847"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku.png')}
+/* Koe no Katachi / Silent Voice */                             .data.image a[href^="/anime/28851"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Koe no Katachi.png')}
+/* Re:Zero kara Hajimeru Isekai Seikatsu */                     .data.image a[href^="/anime/31240"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Re:Zero kara Hajimeru Isekai Seikatsu.png')}
+/* Kimi no Na wa. / Your Name. */                               .data.image a[href^="/anime/32281"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Kimi no Na wa..png')}
+/* Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou */ .data.image a[href^="/anime/32935"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou.png')}
+/* Made in Abyss */                                             .data.image a[href^="/anime/34599"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Made in Abyss.png')} 
+/* Howl no Ugoku Shiro */                                       .data.image a[href^="/anime/431"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Howl no Ugoku Shiro.png')}
+/* Mushishi */                                                  .data.image a[href^="/anime/457"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Mushishi.png')}
+/* Tonari no Totoro */                                          .data.image a[href^="/anime/523"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Tonari no Totoro.png')}
+/* NHK ni Youkoso! */                                           .data.image a[href^="/anime/1210"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/NHK ni Youkoso!.png')}
+/* D.Gray-man */                                                .data.image a[href^="/anime/1482"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/D.Gray-man.png')}
+/* Death Note */                                                .data.image a[href^="/anime/1535"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Death Note.png')}
+/* Ookami to Koushinryou */                                     .data.image a[href^="/anime/2966"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Ookami to Koushinryou.png')}
+/* Soul Eater */                                                .data.image a[href^="/anime/3588"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Soul Eater.png')}
+/* Clannad: Mou Hitotsu no Sekai, Tomoyo-hen */                 .data.image a[href^="/anime/4059"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Clannad: Mou Hitotsu no Sekai, Tomoyo-hen.png')}
+/* Ookami to Koushinryou II */                                  .data.image a[href^="/anime/5341"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Ookami to Koushinryou II.png')}
+/* Summer Wars */                                               .data.image a[href^="/anime/5681"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Summer Wars.png')}
+/* Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen */     .data.image a[href^="/anime/6351"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen.png')}
+/* Angel Beats! */                                              .data.image a[href^="/anime/6547"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Angel Beats!.png')}
+/* Fairy Tail */                                                .data.image a[href^="/anime/6702"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Fairy Tail.png')}
+/* Kaichou wa Maid-sama! */                                     .data.image a[href^="/anime/7054"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Kaichou wa Maid-sama!.png')}
 
 
-/* Darling in the FranXX */                                     .data.image a[href^="/anime/35849 "] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Darling in the FranXX.png')}
+/* Darling in the FranXX */                                     .data.image a[href^="/anime/35849"] {background-image:url('https://waiifu.github.io/MALCDN/Anime/Darling in the FranXX.png')}
